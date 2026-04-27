@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template-turquoise",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "04ad81aa-fce3-4152-9833-2afde67f223e",
+			"database_name": "wonderfulturquoise_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
